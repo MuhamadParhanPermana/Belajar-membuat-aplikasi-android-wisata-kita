@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Wisata Kita</string>
+    <string name="mau_kemana_anda">Mau Kemana Anda</string>
+    <string name="hari_ini">Hari ini?</string>
+    <string name="t_me_sigitsuryono25">t.me/sigitsuryono25</string>
+    <string name="instagram_com_sigitsuryono0225">instagram.com/sigitsuryono0225</string>
+    <string name="fb_com_surelabsid">fb.com/surelabsid</string>
+    <string name="find_me">Find Me</string>
+    <string name="api_key">AIzaSyCcxKsH9PUcU-hK0Y6dotrJSweYBVnVxEs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
